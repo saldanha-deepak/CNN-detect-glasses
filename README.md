@@ -4,7 +4,7 @@ Create a model using CNN to detect faces wearing glasses.
 
 Initial Models tried: https://github.com/saldanha-deepak/CNN-detect-glasses/blob/main/Project_on_CNN.ipynb
 
-Final Model by transfer learning using VGG19 and hyperparameter tunning :
+Final Model by transfer learning using VGG16 and hyperparameter tunning :
 https://github.com/saldanha-deepak/CNN-detect-glasses/blob/main/Project%20on%20Convnets_optimized%20model(transfer%20learning).ipynb
 
 Reference:
